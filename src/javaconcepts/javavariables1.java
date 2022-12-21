@@ -19,6 +19,7 @@ public class javavariables1 {
 	}
  	
  	public static void main(String[] args) {
+ 		
    javavariables1 obj = new javavariables1();
    
    System.out.println(obj.i);
